@@ -7,8 +7,9 @@ Welcome Everyone
 Hi, I am Triyan Arief and this is my first webpage. Let's be a fullstack developer with Hacktiv8.
 
 This is my target list :
-1. Being fullstack developer
-2. Create a wonderfull website
+
+1.  Being fullstack developer
+2.  Create a wonderfull website
 
 Here is my contact :
 - Email : triyanarief@icloud.com
